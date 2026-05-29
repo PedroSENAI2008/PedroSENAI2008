@@ -1,9 +1,9 @@
 
-![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3k0NWc1YWY0Ym5xNmRrc2U4ZXM4am8zejV4OTRzOTczc3Y0bG1raiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXfph06R8mvvsZC3lE/giphy.gif
-)
-## Hello there...
+<div align="center">
 
-### My profile isn't anything special, cuz it isn't made to last tho.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3k0NWc1YWY0Ym5xNmRrc2U4ZXM4am8zejV4OTRzOTczc3Y0bG1raiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXfph06R8mvvsZC3lE/giphy.gif" width="500"/>
+
+</div>
 <!--
 **PedroSENAI2008/PedroSENAI2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
