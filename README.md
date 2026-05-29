@@ -1,6 +1,6 @@
 
-
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3k0NWc1YWY0Ym5xNmRrc2U4ZXM4am8zejV4OTRzOTczc3Y0bG1raiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXfph06R8mvvsZC3lE/giphy.gif
+![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3k0NWc1YWY0Ym5xNmRrc2U4ZXM4am8zejV4OTRzOTczc3Y0bG1raiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IXfph06R8mvvsZC3lE/giphy.gif
+)
 ## Hello there...
 
 ### My profile isn't anything special, cuz it isn't made to last tho.
